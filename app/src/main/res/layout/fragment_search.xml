@@ -3,8 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="#F9E7B9"
     android:layout_height="match_parent"
+    android:background="#F9E7B9"
     tools:context=".ui.fragment.SearchFragment">
 
     <androidx.appcompat.widget.AppCompatEditText
@@ -16,10 +16,10 @@
         android:backgroundTint="#FFFFFF"
         android:fontFamily="@font/custom_bold"
         android:hint="Enter Crypto Name"
-        android:padding="10dp"
+        android:padding="15dp"
         android:textColor="@color/primary"
         android:textColorHint="#97560BAD"
-        android:textSize="20sp"
+        android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -29,8 +29,8 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_search"
         android:layout_width="match_parent"
-        android:layout_margin="8dp"
         android:layout_height="0dp"
+        android:layout_margin="8dp"
         android:orientation="vertical"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         app:layout_constraintBottom_toBottomOf="parent"

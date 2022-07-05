@@ -133,7 +133,7 @@ class WatchListFragment : Fragment() {
                 true
             }
             R.id.mi_privacy -> {
-                    Navigation.findNavController(binding.root)
+                Navigation.findNavController(binding.root)
                     .navigate(R.id.action_watchListFragment_to_privacyPolicyFragment)
                 true
             }

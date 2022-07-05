@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665060789778",
+    "project_id": "live-crypto-d00e7",
+    "storage_bucket": "live-crypto-d00e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665060789778:android:82177923eac138bcc352cb",
+        "android_client_info": {
+          "package_name": "livecrypto.crypto.livecrypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665060789778-qqktn8a9o8094be482kkf59f1mbudeop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "livecrypto.crypto.livecrypto",
+            "certificate_hash": "72086802f61e92278d512ec3474ab2b41864af0a"
+          }
+        },
+        {
+          "client_id": "665060789778-admlevu4i7rckq7esl16c5jjpoo6limg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3AsgYG8BGqFVAZ7ms0V1q9P9QcmZGjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665060789778-admlevu4i7rckq7esl16c5jjpoo6limg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
