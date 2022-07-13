@@ -17,19 +17,22 @@ Screenshots:
    
    Features:
    
-    * Track any cryptocurrency<br/>
-    * Track in detail with graph<br/>
-    * Search for any cryptocurrency<br/>
-    * Track any cryptocurrency<br/>
-    * Add your favourite currency in watchlist<br/>
+    * Track any cryptocurrency
+    * Track in detail with graph
+    * Search for any cryptocurrency
+    * Track any cryptocurrency
+    * Add your favourite currency in watchlist
     
     
-    Library and Technology used :
+   Library and Technology used :
     
-    * Made using Kotlin and XML<br/>
-    * Retrofit for http request<br/>
-    * Gson for json to kotlin conversion<br/>
-    * Jetpack navigation library for navigation<br/>
-    * Shared Preference for storing watlist data<br/>
+    * Made using Kotlin and XML
+    * Retrofit for http request
+    * Gson for json to kotlin conversion
+    * Jetpack navigation library for navigation
+    * Shared Preference for storing watchlist data
+    * Recyclerview 
+    * Webview for showing graph
+    * Image Slider
     
  
