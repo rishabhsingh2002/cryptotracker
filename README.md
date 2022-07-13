@@ -34,5 +34,6 @@ Screenshots:
     * Recyclerview 
     * Webview for showing graph
     * Image Slider
+    * Glide for image loading
     
  
